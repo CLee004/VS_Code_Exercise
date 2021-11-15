@@ -19,4 +19,6 @@ class value:
     Num = eval(input('How many time in the year do you want your investment to compund? '))
     Time = eval(input('How long do you want to hold your investment for? '))
 
+    #Hi how are you
+
     
